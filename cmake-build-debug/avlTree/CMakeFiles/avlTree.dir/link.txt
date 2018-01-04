@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libavlTreed.a  CMakeFiles/avlTree.dir/avlTree.cpp.obj
-C:\MinGW\bin\ranlib.exe libavlTreed.a
